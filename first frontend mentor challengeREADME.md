@@ -1,0 +1,1 @@
+# frontend-QR-component-challenge
